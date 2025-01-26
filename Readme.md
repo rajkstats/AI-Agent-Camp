@@ -26,6 +26,9 @@ This course teaches you how to build various types of AI agents using large lang
 - **Browser Use Agent**: Agent capable of web browsing tasks
 - **Computer Use Agent**: Agent for computer automation tasks
 
+### Demo Video: **Computer Use Agent**
+<video controls src="https://user-images.githubusercontent.com/YOUR_USER_ID/AI-Agent-Camp/assets/computer_use_coldplay.mp4" title="Title"></video>
+
 ## Getting Started
 
 1. Install Ollama and download Llama 3.2
