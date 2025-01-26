@@ -16,8 +16,10 @@ This course teaches you how to build various types of AI agents using large lang
 
 A secure cloud Linux computer powered by [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop/) and controlled by open-source LLMs.
 
-<video controls src="https://github.com/rajkstats/AI-Agent-Camp/raw/refs/heads/main/computer_use_coldplay.mp4" title="Title"></video>
-
+<video width="640" height="480" controls>
+  <source src="https://github.com/rajkstats/AI-Agent-Camp/blob/main/computer_use_coldplay.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Modules
 
