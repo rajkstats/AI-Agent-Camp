@@ -12,7 +12,7 @@ This course teaches you how to build various types of AI agents using large lang
 - Local setup of [Ollama](https://ollama.ai) with Llama 3.2
 - No external AI/ML frameworks required
 
-# Open Source Computer Use Demp
+### Open Source Computer Use Demo
 
 https://github.com/user-attachments/assets/c12a97ba-4466-4863-b258-514ed4bbe74b
 
