@@ -12,14 +12,10 @@ This course teaches you how to build various types of AI agents using large lang
 - Local setup of [Ollama](https://ollama.ai) with Llama 3.2
 - No external AI/ML frameworks required
 
-# Open Computer Use
+# Open Source Computer Use Demp
 
-A secure cloud Linux computer powered by [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop/) and controlled by open-source LLMs.
+https://github.com/user-attachments/assets/c12a97ba-4466-4863-b258-514ed4bbe74b
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/rajkstats/AI-Agent-Camp/blob/main/computer_use_coldplay.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Modules
 
