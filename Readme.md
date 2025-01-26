@@ -31,6 +31,13 @@ https://github.com/user-attachments/assets/c12a97ba-4466-4863-b258-514ed4bbe74b
 - **Browser Use Agent**: Agent capable of web browsing tasks
 - **Computer Use Agent**: Agent for computer automation tasks
 
+### Projects (LinkedIn Posts)
+- **[Snack & Stream Planner (ReAct)](https://www.linkedin.com/posts/rajkstats_aiagents-reactframework-activity-7286008053357780993-etQC)**: An agent that plans movie nights with snack pairings
+- **[Snack & Stream Planner (JSON)](https://www.linkedin.com/posts/rajkstats_aiagents-json-llm-activity-7286524103820296192-f8_A)**: JSON-based implementation of the movie night planner
+- **[Password Strength Checker](https://www.linkedin.com/posts/rajkstats_aiagents-codeexecution-llm-activity-7287958435957022721-o_vw)**: Agent for evaluating password security
+- **[Course Whisperer](https://www.linkedin.com/posts/rajkstats_aiagents-webautomation-learningjourney-activity-7288081476317810688-pCGP)**: Agent for course recommendations and learning paths
+- **[Computer use Agent](https://www.linkedin.com/posts/rajkstats_opensourceai-computervision-aiengineering-activity-7289114537155346432-0VzK)**: Agent for visual recognition and computer control
+
 
 ## Getting Started
 
