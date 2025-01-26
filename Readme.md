@@ -12,6 +12,13 @@ This course teaches you how to build various types of AI agents using large lang
 - Local setup of [Ollama](https://ollama.ai) with Llama 3.2
 - No external AI/ML frameworks required
 
+# Open Computer Use
+
+A secure cloud Linux computer powered by [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop/) and controlled by open-source LLMs.
+
+<video controls src="https://github.com/rajkstats/AI-Agent-Camp/raw/refs/heads/main/computer_use_coldplay.mp4" title="Title"></video>
+
+
 ## Modules
 
 ### Core Modules
@@ -26,8 +33,6 @@ This course teaches you how to build various types of AI agents using large lang
 - **Browser Use Agent**: Agent capable of web browsing tasks
 - **Computer Use Agent**: Agent for computer automation tasks
 
-### Demo Video: **Computer Use Agent**
-<video controls src="https://user-images.githubusercontent.com/YOUR_USER_ID/AI-Agent-Camp/assets/computer_use_coldplay.mp4" title="Title"></video>
 
 ## Getting Started
 
@@ -42,6 +47,7 @@ This course teaches you how to build various types of AI agents using large lang
 - No external frameworks - you'll write everything from scratch
 - Focus on practical implementation
 - Live streamed lessons available online
+
 
 ## Contributing
 
